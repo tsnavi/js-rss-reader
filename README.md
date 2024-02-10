@@ -2,4 +2,4 @@ Created this during my attempts to display a Mastodon feed on my Neocities websi
 
 Fundamentally, this is designed to fetch the data from an rss feed and then, using javascript, spit it out into a waiting html element. I've tried to show with comments how you can customise this to your own ends, but if you just want a working 'mastodon.rss to date+toot table' in html, this will should work out of the box.
 
-As seen on https://tsxyz.neocities.org/micro/
+You can see it in action here: https://tsxyz.neocities.org/micro/
